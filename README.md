@@ -1,7 +1,7 @@
 <h2 align="left">Welcome to my github</h2>
 
 ## Skills:
-- **Programming Languages (Data Structures & Algorithms)**
+- **Programming Languages**
 	<center>
 		<table>
 			<tbody>
@@ -46,10 +46,6 @@
 					<td align="center">
 						<span><strong>Typescript</strong></span><br/>
 						<img height="64px" width="64px" src="https://res.cloudinary.com/dk0bu3fas/image/upload/v1703576203/Frontend/ts.svg">
-					</td>
-					<td align="center">
-						<span><strong>Bootstrap</strong></span><br/>
-						<img height="64px" width="64px" src="https://res.cloudinary.com/dk0bu3fas/image/upload/v1703576203/Frontend/bootstrap.svg">
 					</td>
 					<td align="center">
 						<span><strong>React</strong></span><br/>
