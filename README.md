@@ -1,69 +1,109 @@
 <h2 align="left">Welcome to my github</h2>
 
-###
+## Skills:
+- **Programming Languages (Data Structures & Algorithms)**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Python</strong></span><br/>
+						<img height="64px" width="64px" src="https://res.cloudinary.com/dk0bu3fas/image/upload/v1703575987/python.svg">
+					</td>
+          <td width="25%" align="center">
+						<span><strong>C</strong></span><br/>
+						<img height="64px" width="64px" src="https://res.cloudinary.com/dk0bu3fas/image/upload/v1703576971/c.png">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>C++</strong></span><br/>
+						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Java</strong></span><br/>
+						<img height="64px" width="64px" src="https://res.cloudinary.com/dk0bu3fas/image/upload/v1703576047/java.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+- **Frontend Development**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td align="center">
+						<span><strong>HTML</strong></span><br/>
+						<img height="64px" width="64px" src="https://res.cloudinary.com/dk0bu3fas/image/upload/v1703576203/Frontend/html.svg">
+					</td>
+					<td align="center">
+						<span><strong>CSS</strong></span><br/>
+						<img height="64px" width="64px" src="https://res.cloudinary.com/dk0bu3fas/image/upload/v1703576203/Frontend/css.svg">
+					</td>
+					<td align="center">
+						<span><strong>Javascript</strong></span><br/>
+						<img height="64px" width="64px" src="https://res.cloudinary.com/dk0bu3fas/image/upload/v1703576203/Frontend/js.svg">
+					</td>
+					<td align="center">
+						<span><strong>Typescript</strong></span><br/>
+						<img height="64px" width="64px" src="https://res.cloudinary.com/dk0bu3fas/image/upload/v1703576203/Frontend/ts.svg">
+					</td>
+					<td align="center">
+						<span><strong>Bootstrap</strong></span><br/>
+						<img height="64px" width="64px" src="https://res.cloudinary.com/dk0bu3fas/image/upload/v1703576203/Frontend/bootstrap.svg">
+					</td>
+					<td align="center">
+						<span><strong>React</strong></span><br/>
+						<img height="64px" width="64px" src="https://res.cloudinary.com/dk0bu3fas/image/upload/v1703576203/Frontend/react.svg">
+					</td>
+					<td  align="center">
+						<span><strong>Recoil</strong></span><br/>
+						<img height="64px" width="64px" src="https://res.cloudinary.com/dk0bu3fas/image/upload/v1703576203/Frontend/recoil.svg">
+					</td>
+					<td align="center">
+						<span><strong>Material UI</strong></span><br/>
+						<img height="64px" width="64px" src="https://res.cloudinary.com/dk0bu3fas/image/upload/v1703576203/Frontend/material-ui.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+	
+- **Backend Development**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Node JS</strong></span><br/>
+						<img height="64px" width="64px" src="https://res.cloudinary.com/dk0bu3fas/image/upload/v1703575925/nodejs.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Express</strong></span><br/>
+						<img height="64px" width="64px" src="https://res.cloudinary.com/dk0bu3fas/image/upload/v1703576609/express.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>MongoDB</strong></span><br/>
+						<img height="64px" width="64px" src="https://res.cloudinary.com/dk0bu3fas/image/upload/v1703576559/mongodb.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Firebase</strong></span><br/>
+						<img height="64px" width="64px" src="https://res.cloudinary.com/dk0bu3fas/image/upload/v1703575751/npcphml9ccpxar1ksxo8.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
 
-<h3 align="left">Skills:</h3>
-
-###
-
-<p align="left">Programming Languages:</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
-
-###
-
-<p align="left">Frontend Development:</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
-
-###
-
-<p align="left">Backend Development:</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-</div>
-
-###
-
-<p align="left">Android Development:</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-</div>
-
-###
+- **Android Development**
+  <center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Node JS</strong></span><br/>
+						<img height="64px" width="64px" src="https://res.cloudinary.com/dk0bu3fas/image/upload/v1703576723/Frontend/android.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
