@@ -100,7 +100,7 @@
 			<tbody>
 				<tr>
 					<td width="25%" align="center">
-						<span><strong>Node JS</strong></span><br/>
+						<span><strong>Android Studio</strong></span><br/>
 						<img height="64px" width="64px" src="https://res.cloudinary.com/dk0bu3fas/image/upload/v1703576723/Frontend/android.svg">
 					</td>
 				</tr>
