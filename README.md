@@ -20,7 +20,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.ibb.co/BHpLjdcr/unnamed-2.png"  />
 
 ###
 
